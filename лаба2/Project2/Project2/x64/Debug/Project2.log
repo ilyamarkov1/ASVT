@@ -1,0 +1,10 @@
+﻿  Assembling Source.asm...
+Source.asm(4): error A2008: syntax error : .
+Source.asm(5): error A2008: syntax error : .
+Source.asm(6): error A2008: syntax error : .
+Source.asm(188): error A2024: invalid operand size for instruction
+Source.asm(207): error A2008: syntax error : START
+Source.asm(207): error A2088: END directive required at end of file
+Source.asm(42): error A2006: undefined symbol : @DATA
+Source.asm(195): error A2031: must be index or base register
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm" с кодом "1".

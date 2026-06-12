@@ -1,0 +1,16 @@
+﻿  Assembling asm.asm...
+asm.asm(1): error A2008: syntax error : .
+asm.asm(2): error A2008: syntax error : .
+asm.asm(14): error A2070: invalid instruction operands
+asm.asm(17): error A2070: invalid instruction operands
+asm.asm(18): error A2070: invalid instruction operands
+asm.asm(19): error A2070: invalid instruction operands
+asm.asm(36): error A2070: invalid instruction operands
+asm.asm(38): error A2070: invalid instruction operands
+asm.asm(44): error A2070: invalid instruction operands
+asm.asm(58): error A2070: invalid instruction operands
+asm.asm(59): error A2070: invalid instruction operands
+asm.asm(60): error A2070: invalid instruction operands
+asm.asm(63): error A2070: invalid instruction operands
+asm.asm(66): warning A6004: procedure argument or local not referenced : C
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\asm.obj" /W3 /errorReport:prompt  /Taasm.asm" с кодом "1".
